@@ -18,7 +18,7 @@ img{
 
 }
 
-.nav-bar{
+/* .nav-bar{
     display: flex;
     flex-direction: row;
    
@@ -62,11 +62,11 @@ flex-direction: column;
 justify-content: center;
 text-align: center;
 padding-top: 20px;
-}
+} */
 
 /* SECCION DE COMENTARIOS */
 
-.dospuntouno{
+ /* .dospuntouno{
 
     color: #A0522D;
     font-size: large;
@@ -112,7 +112,7 @@ padding-top: 20px;
     height: 200px;
     object-fit: cover;
     border-radius: 150px;
-}
+} */
 
 /* NOSOTROS */
 

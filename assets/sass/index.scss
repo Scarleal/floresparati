@@ -1,0 +1,91 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+   
+    width: 100%;
+}
+    .nav-img{ 
+    
+        display: flex;
+        margin-left:50px;
+    
+    }
+    .nav-ul{
+        font-size: large;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 6px;
+        margin-left: 900px;
+        
+    }
+}
+
+.back-img{
+    background-image: url(/assets/img/scott-webb-hDyO6rr3kqk-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.mensaje-b{
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+padding-top: 20px;
+}
+
+.dospuntouno{
+
+    color: #A0522D;
+    font-size: large;
+    font-style: oblique;
+    height: 150px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    margin-left: 100px;
+    
+}
+
+.comentarios{
+    
+    color: #A0522D;
+    font-size: medium;
+    font-style: oblique;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+
+    .comenitems{
+
+        margin-top: 150px;
+        margin-left: 50px;
+        width: 350px;
+        height: 350px;
+    }
+    .imagencliente{
+    
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+        
+    }
+
+    .cliente{ 
+        width: 300px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 150px;
+    }
+}
+
+
+
+    
+
